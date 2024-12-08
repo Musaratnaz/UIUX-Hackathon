@@ -1,12 +1,12 @@
-import AboutPage from "@/components/about-header"
+import ContactPage from '@/components/contact-header'
+import React from 'react'
 
-
-const About = () => {
+const Contact = () => {
   return (
     <>
-    <AboutPage />
+    <ContactPage />
     </>
   )
 }
 
-export default About
+export default Contact
